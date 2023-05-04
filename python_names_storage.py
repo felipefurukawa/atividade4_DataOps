@@ -10,7 +10,7 @@ headers = {
 
 credentials_dict = {
  
-  {
+  
   "type": "service_account",
   "project_id": "optimal-life-382223",
   "private_key_id": "68d56bffa9d19ceff7e20b5e21d68165f8a94a8c",
@@ -22,7 +22,7 @@ credentials_dict = {
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/untitled%40optimal-life-382223.iam.gserviceaccount.com"
 } 
-}
+
 
 try:
 
